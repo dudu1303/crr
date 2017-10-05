@@ -1,0 +1,20 @@
+.header{
+	background-color: green;
+	margin-bottom: 30%;
+
+}
+.img{
+	width: 100%;
+	line-height: 45%
+
+
+}
+.section{
+	border: solid 5px black;
+	width: 30%;
+	flex: 40px;
+
+}
+.footer{
+text-align: 10px;
+}
